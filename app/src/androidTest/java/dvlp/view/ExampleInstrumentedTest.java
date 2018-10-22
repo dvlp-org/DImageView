@@ -1,4 +1,4 @@
-package lczq.testcircleimageview;
+package dvlp.view;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

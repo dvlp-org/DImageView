@@ -1,4 +1,4 @@
-package lczq.testcircleimageview;
+package dvlp.view;
 
 import org.junit.Test;
 

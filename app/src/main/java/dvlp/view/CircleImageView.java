@@ -1,4 +1,4 @@
-package lczq.testcircleimageview;
+package dvlp.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;

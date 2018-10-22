@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <lczq.testcircleimageview.CircleImageView
+    <dvlp.view.CircleImageView
         android:layout_margin="5dp"
         android:layout_width="150dp"
         android:layout_height="150dp"
@@ -11,14 +11,14 @@
         app:border_width="2dp"
         android:src="@color/colorAccent"/>
 
-    <lczq.testcircleimageview.RoundImageView
+    <dvlp.view.RoundImageView
         android:layout_margin="5dp"
 
         android:layout_width="150dp"
         android:layout_height="150dp"
         app:type="circle"
         android:src="@color/colorAccent"/>
-    <lczq.testcircleimageview.RoundImageView
+    <dvlp.view.RoundImageView
         android:layout_margin="5dp"
         android:layout_width="150dp"
         android:layout_height="150dp"
