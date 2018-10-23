@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestCircleImageView.iml" filepath="$PROJECT_DIR$/TestCircleImageView.iml" />
-      <module fileurl="file://E:\dvlp\github\TestCircleImageView\TestCircleImageView.iml" filepath="E:\dvlp\github\TestCircleImageView\TestCircleImageView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\dvlp\github\TestCircleImageView\app\app.iml" filepath="E:\dvlp\github\TestCircleImageView\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dview/dview.iml" filepath="$PROJECT_DIR$/dview/dview.iml" />
     </modules>
   </component>
 </project>

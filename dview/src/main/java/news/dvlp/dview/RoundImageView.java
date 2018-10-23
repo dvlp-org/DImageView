@@ -1,4 +1,4 @@
-package dvlp.view;
+package news.dvlp.dview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
