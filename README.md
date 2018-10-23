@@ -39,7 +39,7 @@ Configuration
 
 --------------------------------------------attrs------------------------------------------------------------
 
-<declare-styleable name="RoundImageView">
+     <declare-styleable name="RoundImageView">
         <attr name="type" format="enum">
             <enum name="circle" value="1"/>
             <enum name="round" value="2"/>
